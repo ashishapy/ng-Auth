@@ -1,0 +1,5 @@
+module.exports = {
+  FACEBOOK_SECRET: '13d600f0175d4859eeaa05d6376d34a5',
+  GOOGLE_SECRET: 'SREhjkR0CQZb5JvF8iLrR8DF',
+  EMAIL_SECRET: 'something'
+}
